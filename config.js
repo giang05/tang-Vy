@@ -3,9 +3,8 @@ const CONFIG = {
     introDesc: `Giang đã trằn trọc suốt đêm qua để đặt ra một câu hỏi là
     Tại sao tên em không phải là mẫn nhi
     Và nếu em có thắc mắc về vấn đề đấy thì em có thể đọc ngược nó lại',
-   
     btnIntro: 'hihi',
-    title: 'Không biết Vy có sẵn sàng mở lồng với Giang',
+    title: 'Không biết Vy có sẵn sàng mở lòng với Giang',
     desc: 'Để mình có thể tiến tới một mối quan hệ xa hơn không nhỉ !!?? ',
     btnYes: 'Vẫn cứ là oke nha <33',
     btnNo: 'Không, Giang à :3',
