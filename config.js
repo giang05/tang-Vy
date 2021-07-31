@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Vy à!',
     introDesc: `Giang đã trằn trọc suốt đêm qua để đặt ra một câu hỏi là
     Tại sao tên em không phải là mẫn nhi
-    Và nếu em có thắc mắc về vấn đề đấy thì em có thể đọc ngược nó lại,
+    Và nếu em có thắc mắc về vấn đề đấy thì em có thể đọc ngược nó lại',
    
     btnIntro: 'hihi',
     title: 'Không biết Vy có sẵn sàng mở lồng với Giang',
