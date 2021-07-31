@@ -1,19 +1,22 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Vy à!',
+    introDesc: `Giang đã trằn trọc suốt đêm qua để đặt ra một câu hỏi là
+    Tại sao tên em không phải là mẫn nhi
+    Và nếu em có thắc mắc về vấn đề đấy thì em có thể đọc ngược nó lại,
+   
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Không biết Vy có sẵn sàng mở lồng với Giang',
+    desc: 'Để mình có thể tiến tới một mối quan hệ xa hơn không nhỉ !!?? ',
+    btnYes: 'Vẫn cứ là oke nha <33',
+    btnNo: 'Không, Giang à :3',
+    question:'Trên thế giới này có hơn 7 tỉ nụ cười 
+    Nhưng mà với Giang, nụ cười của Vy mới là đẹp nhất 
+    Thế nên là làm ơnn
+    Hãy để Giang giúp Vy giữ nụ cười của Vy trên môi ',
+    btnReply: 'Gửi cho Giang <3',
+    reply: 'Cho thì cho mà không cho thì cho <33333333',
+    mess: 'Giang biết mà 🥰😘😘',
+    messDesc: 'Tối hát cho Giang nghe nha <3 ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
